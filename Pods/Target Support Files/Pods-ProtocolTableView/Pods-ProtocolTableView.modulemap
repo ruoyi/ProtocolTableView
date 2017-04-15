@@ -1,0 +1,6 @@
+framework module Pods_ProtocolTableView {
+  umbrella header "Pods-ProtocolTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
