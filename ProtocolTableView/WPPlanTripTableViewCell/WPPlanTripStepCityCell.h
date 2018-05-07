@@ -23,5 +23,4 @@
 @property (nonatomic, strong, readonly, nonnull) UILabel *timeLabel;
 
 
-
 @end

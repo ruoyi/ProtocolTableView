@@ -10,4 +10,6 @@
 
 @interface RYCelldata : NSObject
 
+@property (nonatomic, copy, nullable) NSString *text;
+
 @end

@@ -7,11 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "RYTableScene.h"
 
-@interface ViewController : RYTableScene
 
-@property (nonatomic, nullable, copy) NSArray<RYTableDataManger *> *dataArr;
+@interface ViewController : UIViewController
+
 
 @end
 
